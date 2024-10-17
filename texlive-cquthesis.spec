@@ -3,7 +3,7 @@ Version:	55643
 Release:	2
 Summary:	LaTeX Thesis Template for Chongqing University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cquthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cquthesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cquthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cquthesis.doc.r%{version}.tar.xz
